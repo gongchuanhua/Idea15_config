@@ -1,0 +1,63 @@
+<application>
+  <component name="DimensionService">
+    <location key="FileChooserDialogImpl.1366.0.1440.900" x="1691" y="166" />
+    <location key="new project wizard.1366.0.1440.900" x="1590" y="31" />
+    <location key="WELCOME_SCREEN.0.0.1366.768" x="682" y="230" />
+    <location key="com.intellij.ide.util.TipDialog.0.0.1366.768" x="390" y="174" />
+    <location key="com.intellij.ide.util.TipDialog.1366.0.1440.900" x="1630" y="222" />
+    <location key="SettingsEditor.1366.0.1440.900" x="1404" y="62" />
+    <location key="#com.intellij.featureStatistics.actions.ShowFeatureUsageStatisticsDialog.1366.0.1440.900" x="1670" y="126" />
+    <location key="#com.intellij.execution.impl.EditConfigurationsDialog.1366.0.1440.900" x="1393" y="64" />
+    <location key="OptionsEditor.1366.0.1440.900" x="1566" y="0" />
+    <location key="scopes.1366.0.1440.900" x="1878" y="281" />
+    <location key="SettingsEditor.0.0.1366.768" x="71" y="20" />
+    <location key="#com.intellij.execution.impl.EditConfigurationsDialog.0.0.1366.768" x="214" y="2" />
+    <location key="EditParametersPopupWindow.0.0.1366.768" x="487" y="200" />
+    <location key="FileChooserDialogImpl.0.0.1366.768" x="562" y="196" />
+    <location key="#com.intellij.ide.util.TreeClassChooserDialog.0.0.1366.768" x="412" y="144" />
+    <location key="OptionsEditor.0.0.1366.768" x="163" y="0" />
+    <location key="new project wizard.0.0.1366.768" x="258" y="0" />
+    <location key="GitCloneDialog.0.0.1366.768" x="333" y="261" />
+    <location key="#com.intellij.featureStatistics.actions.ShowFeatureUsageStatisticsDialog.0.0.1366.768" x="345" y="61" />
+    <location key="findTextDialog.0.0.1366.768" x="437" y="75" />
+    <location key="svn.repositoryBrowser.0.0.1366.768" x="513" y="106" />
+    <location key="svn4idea.checkout.options.0.0.1366.768" x="432" y="178" />
+    <location key="svn.upgradeDialog.0.0.1366.768" x="488" y="213" />
+    <location key="WebDeployment.AddServerDialog.v.1.0.0.1366.768" x="555" y="246" />
+    <location key="#Tomcat_Server.0.0.1366.768" x="540" y="235" />
+    <location key="#Tomcat8.0.0.0.1366.768" x="361" y="0" />
+    <location key="#com.intellij.util.ui.classpath.ChooseLibrariesDialog.0.0.1366.768" x="413" y="112" />
+    <location key="#BuildArtifactsBeforeRunChooser.0.0.1366.768" x="462" y="175" />
+    <location key="#Project_Structure.0.0.1366.768" x="163" y="0" />
+    <location key="#com.intellij.util.ui.classpath.ChooseLibrariesDialog.1366.0.1440.900" x="1816" y="178" />
+    <location key="#com.intellij.javaee.module.view.web.EditWebRootDialog.1366.0.1440.900" x="1875" y="334" />
+    <location key="#com.intellij.javaee.module.view.common.J2EE.J2EEDeploymentDescriptorLocationPanel.changeDDPath.1366.0.1440.900" x="1914" y="348" />
+    <location key="#com.intellij.j2ee.appServerIntegrations.ApplicationServersConfigurable.1366.0.1440.900" x="1673" y="61" />
+    <location key="vcs.readOnlyHandler.ReadOnlyStatusDialog.1366.0.1440.900" x="1833" y="260" />
+    <location key="#com.intellij.ide.util.MemberChooser.1366.0.1440.900" x="1514" y="94" />
+    <location key="#编译器.1366.0.1440.900" x="1372" y="207" />
+    <location key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog.1366.0.1440.900" x="1816" y="178" />
+    <location key="#Browse_JetBrains_Plugins_.0.0.1366.768" x="94" y="0" />
+    <location key="#插件.0.0.1366.768" x="106" y="0" />
+    <location key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog.0.0.1366.768" x="359" y="66" />
+    <size key="GridCell.Tab.0.left.1366.0.1440.900" width="1396" height="692" />
+    <size key="GridCell.Tab.0.center.1366.0.1440.900" width="1396" height="692" />
+    <size key="GridCell.Tab.0.right.1366.0.1440.900" width="1396" height="692" />
+    <size key="GridCell.Tab.0.bottom.1366.0.1440.900" width="1396" height="692" />
+    <size key="GridCell.Tab.0.left.0.0.1366.768" width="1322" height="166" />
+    <size key="GridCell.Tab.0.center.0.0.1366.768" width="1322" height="166" />
+    <size key="GridCell.Tab.0.right.0.0.1366.768" width="1322" height="166" />
+    <size key="GridCell.Tab.0.bottom.0.0.1366.768" width="1322" height="166" />
+    <size key="SettingsEditor.0.0.1366.768" width="1212" height="694" />
+    <size key="javadoc.popup.0.0.1366.768" width="446" height="166" />
+    <size key="#Tomcat8.0.0.0.1366.768" width="643" height="755" />
+    <size key="GridCell.Tab.1.left.1366.0.1440.900" width="1396" height="692" />
+    <size key="GridCell.Tab.1.center.1366.0.1440.900" width="1396" height="692" />
+    <size key="GridCell.Tab.1.right.1366.0.1440.900" width="1396" height="692" />
+    <size key="GridCell.Tab.1.bottom.1366.0.1440.900" width="1396" height="692" />
+    <size key="GridCell.Tab.2.left.1366.0.1440.900" width="1396" height="692" />
+    <size key="GridCell.Tab.2.center.1366.0.1440.900" width="1396" height="692" />
+    <size key="GridCell.Tab.2.right.1366.0.1440.900" width="1396" height="692" />
+    <size key="GridCell.Tab.2.bottom.1366.0.1440.900" width="1396" height="692" />
+  </component>
+</application>

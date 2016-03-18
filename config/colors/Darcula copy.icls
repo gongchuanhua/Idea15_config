@@ -1,0 +1,27 @@
+<scheme name="Darcula copy" version="142" parent_scheme="Darcula">
+  <option name="LINE_SPACING" value="1.0" />
+  <font>
+    <option name="EDITOR_FONT_NAME" value="微软雅黑" />
+    <option name="EDITOR_FONT_SIZE" value="14" />
+  </font>
+  <font>
+    <option name="EDITOR_FONT_NAME" value="宋体" />
+    <option name="EDITOR_FONT_SIZE" value="14" />
+  </font>
+  <console-font>
+    <option name="EDITOR_FONT_NAME" value="微软雅黑" />
+    <option name="EDITOR_FONT_SIZE" value="14" />
+  </console-font>
+  <console-font>
+    <option name="EDITOR_FONT_NAME" value="仿宋" />
+    <option name="EDITOR_FONT_SIZE" value="14" />
+  </console-font>
+  <attributes>
+    <option name="JAVA_KEYWORD">
+      <value>
+        <option name="FOREGROUND" value="cc7832" />
+        <option name="BACKGROUND" value="2b2b2b" />
+      </value>
+    </option>
+  </attributes>
+</scheme>

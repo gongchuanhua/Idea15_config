@@ -1,0 +1,80 @@
+<application>
+  <component name="RunnerLayoutSettings">
+    <runner id="MySQL - @localhost">
+      <ViewImpl>
+        <option name="ID" value="Input" />
+        <option name="minimizedInGrid" value="false" />
+        <option name="placeInGrid" value="center" />
+        <option name="tabIndex" value="0" />
+        <option name="window" value="0" />
+      </ViewImpl>
+      <ViewImpl>
+        <option name="ID" value="ResultTab" />
+        <option name="minimizedInGrid" value="false" />
+        <option name="placeInGrid" value="center" />
+        <option name="tabIndex" value="0" />
+        <option name="window" value="0" />
+      </ViewImpl>
+      <TabImpl>
+        <option name="displayName" value="Database Console" />
+      </TabImpl>
+      <General />
+    </runner>
+    <runner id="JavaRunner">
+      <ViewImpl>
+        <option name="ID" value="ConsoleContent" />
+        <option name="minimizedInGrid" value="false" />
+        <option name="placeInGrid" value="bottom" />
+        <option name="tabIndex" value="0" />
+        <option name="window" value="0" />
+      </ViewImpl>
+      <TabImpl>
+        <option name="bottomProportion" value="0.0" />
+      </TabImpl>
+      <General />
+    </runner>
+    <runner id="JavaRunner.JAVAEE_CONSOLE">
+      <ViewImpl>
+        <option name="ID" value="ConsoleContent" />
+        <option name="minimizedInGrid" value="false" />
+        <option name="placeInGrid" value="center" />
+        <option name="tabIndex" value="0" />
+        <option name="window" value="0" />
+      </ViewImpl>
+      <ViewImpl>
+        <option name="ID" value="Deployment" />
+        <option name="minimizedInGrid" value="false" />
+        <option name="placeInGrid" value="left" />
+        <option name="tabIndex" value="0" />
+        <option name="window" value="0" />
+      </ViewImpl>
+      <ViewImpl>
+        <option name="ID" value="C:\Users\Skywalker\.IntelliJIdea15\system\tomcat\未命名_jsprunutf8\logs\localhost.2016-03-17.log" />
+        <option name="minimizedInGrid" value="false" />
+        <option name="placeInGrid" value="bottom" />
+        <option name="tabIndex" value="1" />
+        <option name="window" value="0" />
+      </ViewImpl>
+      <ViewImpl>
+        <option name="ID" value="C:\Users\Skywalker\.IntelliJIdea15\system\tomcat\未命名_jsprunutf8\logs\catalina.2016-03-17.log" />
+        <option name="minimizedInGrid" value="false" />
+        <option name="placeInGrid" value="bottom" />
+        <option name="tabIndex" value="2" />
+        <option name="window" value="0" />
+      </ViewImpl>
+      <TabImpl>
+        <option name="displayName" value="Server" />
+        <option name="leftProportion" value="0.1994135" />
+      </TabImpl>
+      <TabImpl>
+        <option name="defaultIndex" value="1" />
+        <option name="index" value="1" />
+      </TabImpl>
+      <TabImpl>
+        <option name="defaultIndex" value="2" />
+        <option name="index" value="2" />
+      </TabImpl>
+      <General />
+    </runner>
+  </component>
+</application>

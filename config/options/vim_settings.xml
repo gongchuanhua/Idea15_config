@@ -1,0 +1,84 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="D:/IdeaProjects/HelloWorld/H01/src/Main.java" timestamp="1458101968145">
+        <mark key="'" line="4" column="3" />
+      </file>
+      <file name="D:/IdeaProjects/untitled/src/com/gch/tEST.java" timestamp="1458029148535">
+        <mark key="[" line="3" column="36" />
+        <mark key="]" line="3" column="36" />
+        <mark key="." line="3" column="36" />
+      </file>
+      <file name="/a.dummy" timestamp="1458101735041">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="D:/IdeaProjects/untitled/src/tEST.java" timestamp="1458021436398">
+        <mark key="[" line="5" column="25" />
+        <mark key="]" line="5" column="25" />
+        <mark key="." line="5" column="25" />
+      </file>
+      <file name="/HTML File.txt.ft" timestamp="1458020730954">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="D:/IdeaProjects/untitledProjects/src/com/gch/demo/Test01.java" timestamp="1458025028005">
+        <mark key="[" line="6" column="4" />
+      </file>
+      <file name="/fragment.java" timestamp="1458101713308">
+        <mark key="[" line="0" column="0" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="4" column="4" filename="D:/IdeaProjects/untitled/src/tEST.java" />
+      <jump line="4" column="3" filename="D:/IdeaProjects/HelloWorld/H01/src/Main.java" />
+    </jumps>
+    <registers>
+      <register name="1" type="4">
+        <text>5</text>
+      </register>
+      <register name="&quot;" type="4">
+        <text>5</text>
+      </register>
+      <register name="2" type="4">
+        <text>.
+ */
+public class tEST {
+    public static void main(String[] args) {
+        System.out.println(&quot;13r3wfas&quot;);
+        System.out.print(123);
+    }</text>
+      </register>
+      <register name="3" type="4">
+        <text>1</text>
+      </register>
+      <register name="4" type="4">
+        <text>11111111</text>
+      </register>
+      <register name="5" type="4">
+        <text />
+      </register>
+      <register name="6" type="4">
+        <text>11111111111111</text>
+      </register>
+      <register name="-" type="4">
+        <text>5</text>
+      </register>
+    </registers>
+    <search>
+      <last-dir>0</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search />
+      <history-cmd />
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed S</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+  </component>
+</application>

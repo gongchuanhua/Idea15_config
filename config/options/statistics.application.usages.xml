@@ -1,0 +1,156 @@
+<application>
+  <component name="StatisticsApplicationUsages">
+    <group name="run-configuration-type-temp">
+      <project id="HelloWorld" values="CucumberJavaRunConfigurationType" collectionTime="1458104745294" />
+    </group>
+    <group name="jdbc-datasource">
+      <project id="untitled" values="MySQL/5.6.26" collectionTime="1458029191336" />
+    </group>
+    <group name="vcs">
+      <project id="IntelliJ-IDEA-Tutorial" values="Git" collectionTime="1458101462907" />
+    </group>
+    <group name="language-level">
+      <project id="HelloWorld" values="JDK_1_6" collectionTime="1458104745422" />
+      <project id="untitled2" values="JDK_1_6" collectionTime="1458103599588" />
+      <project id="untitled1" values="JDK_1_6" collectionTime="1458103295396" />
+      <project id="untitled3" values="JDK_1_6" collectionTime="1458103597136" />
+      <project id="source" values="JDK_1_6" collectionTime="1458193968578" />
+      <project id="TestWeb" values="JDK_1_6" collectionTime="1458174135068" />
+      <project id="HelloGch" values="JDK_1_6" collectionTime="1458221052635" />
+      <project id="Hello" values="JDK_1_6" collectionTime="1458174608718" />
+      <project id="IntelliJ-IDEA-Tutorial" values="JDK_1_6" collectionTime="1458101463211" />
+      <project id="untitledProjects" values="JDK_1_6" collectionTime="1458025943643" />
+      <project id="untitled" values="JDK_1_7" collectionTime="1458029191144" />
+      <project id="jsprunutf8" values="JDK_1_6" collectionTime="1458194456659" />
+    </group>
+    <group name="JavaScript versions">
+      <project id="HelloWorld" values="ECMAScript 5.1" collectionTime="1458104745649" />
+      <project id="untitled2" values="ECMAScript 5.1" collectionTime="1458103599589" />
+      <project id="untitled1" values="ECMAScript 5.1" collectionTime="1458103295616" />
+      <project id="untitled3" values="ECMAScript 5.1" collectionTime="1458103597139" />
+      <project id="source" values="ECMAScript 5.1" collectionTime="1458193968614" />
+      <project id="TestWeb" values="ECMAScript 5.1" collectionTime="1458174135910" />
+      <project id="HelloGch" values="ECMAScript 5.1" collectionTime="1458221052667" />
+      <project id="Hello" values="ECMAScript 5.1" collectionTime="1458174608722" />
+      <project id="IntelliJ-IDEA-Tutorial" values="ECMAScript 5.1" collectionTime="1458101463384" />
+      <project id="untitledProjects" values="ECMAScript 5.1" collectionTime="1458025943648" />
+      <project id="untitled" values="ECMAScript 5.1" collectionTime="1458029191337" />
+      <project id="jsprunutf8" values="ECMAScript 5.1" collectionTime="1458194456659" />
+    </group>
+    <group name="run-configuration-type">
+      <project id="untitledProjects" values="CucumberJavaRunConfigurationType" collectionTime="1458025943547" />
+      <project id="untitled1" values="CucumberJavaRunConfigurationType" collectionTime="1458103295274" />
+      <project id="source" values="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory.Local" collectionTime="1458193968465" />
+      <project id="HelloGch" values="Application" collectionTime="1458221052533" />
+      <project id="Hello" values="Application,CucumberJavaRunConfigurationType" collectionTime="1458174608605" />
+      <project id="untitled" values="CucumberJavaRunConfigurationType" collectionTime="1458029191068" />
+      <project id="jsprunutf8" values="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory.Local" collectionTime="1458194456632" />
+    </group>
+    <group name="jdbc-driver">
+      <project id="untitled" values="com.mysql.jdbc.Driver" collectionTime="1458029191336" />
+    </group>
+    <group name="Git">
+      <project id="HelloWorld" values="config.push.update.all.roots.enabled,config.save.policy.STASH,config.update.type.BRANCH_DEFAULT,config.warn.about.detached.enabled,config.repo.sync.NOT_DECIDED,config.push.autoupdate.disabled,config.force.push.enabled,config.warn.about.crlf.enabled,config.ssh.enabled,config.cherry-pick.autocommit.disabled" collectionTime="1458104745425" />
+      <project id="untitled2" values="config.warn.about.detached.enabled,config.repo.sync.NOT_DECIDED,config.push.update.all.roots.enabled,config.push.autoupdate.disabled,config.update.type.BRANCH_DEFAULT,config.warn.about.crlf.enabled,config.cherry-pick.autocommit.disabled,config.force.push.enabled,config.save.policy.STASH,config.ssh.enabled" collectionTime="1458103599588" />
+      <project id="untitled1" values="config.ssh.enabled,config.save.policy.STASH,config.repo.sync.NOT_DECIDED,config.force.push.enabled,config.warn.about.detached.enabled,config.update.type.BRANCH_DEFAULT,config.cherry-pick.autocommit.disabled,config.push.autoupdate.disabled,config.push.update.all.roots.enabled,config.warn.about.crlf.enabled" collectionTime="1458103295397" />
+      <project id="untitled3" values="config.save.policy.STASH,config.repo.sync.NOT_DECIDED,config.force.push.enabled,config.update.type.BRANCH_DEFAULT,config.push.update.all.roots.enabled,config.push.autoupdate.disabled,config.ssh.enabled,config.warn.about.crlf.enabled,config.cherry-pick.autocommit.disabled,config.warn.about.detached.enabled" collectionTime="1458103597136" />
+      <project id="source" values="config.repo.sync.NOT_DECIDED,config.warn.about.detached.enabled,config.warn.about.crlf.enabled,config.update.type.BRANCH_DEFAULT,config.cherry-pick.autocommit.disabled,config.push.autoupdate.disabled,config.push.update.all.roots.enabled,config.ssh.enabled,config.force.push.enabled,config.save.policy.STASH" collectionTime="1458193968610" />
+      <project id="TestWeb" values="config.push.update.all.roots.enabled,config.update.type.BRANCH_DEFAULT,config.push.autoupdate.disabled,config.save.policy.STASH,config.force.push.enabled,config.warn.about.crlf.enabled,config.repo.sync.NOT_DECIDED,config.cherry-pick.autocommit.disabled,config.ssh.enabled,config.warn.about.detached.enabled" collectionTime="1458174135069" />
+      <project id="HelloGch" values="config.push.update.all.roots.enabled,config.warn.about.detached.enabled,config.warn.about.crlf.enabled,config.save.policy.STASH,config.repo.sync.NOT_DECIDED,config.cherry-pick.autocommit.disabled,config.force.push.enabled,config.ssh.enabled,config.update.type.BRANCH_DEFAULT,config.push.autoupdate.disabled" collectionTime="1458221052637" />
+      <project id="Hello" values="config.cherry-pick.autocommit.disabled,config.warn.about.crlf.enabled,config.ssh.enabled,config.warn.about.detached.enabled,config.repo.sync.NOT_DECIDED,config.push.update.all.roots.enabled,config.save.policy.STASH,config.force.push.enabled,config.update.type.BRANCH_DEFAULT,config.push.autoupdate.disabled" collectionTime="1458174608718" />
+      <project id="IntelliJ-IDEA-Tutorial" values="data.remote.branches.count.0,config.push.update.all.roots.enabled,config.ssh.enabled,config.force.push.enabled,config.warn.about.detached.enabled,config.update.type.BRANCH_DEFAULT,config.push.autoupdate.disabled,config.warn.about.crlf.enabled,data.local.branches.count.0,config.save.policy.STASH,config.cherry-pick.autocommit.disabled,config.repo.sync.NOT_DECIDED,data.remotes.in.project.1" collectionTime="1458101463213" />
+      <project id="untitledProjects" values="config.warn.about.detached.enabled,config.push.update.all.roots.enabled,config.cherry-pick.autocommit.disabled,config.ssh.enabled,config.force.push.enabled,config.save.policy.STASH,config.push.autoupdate.disabled,config.repo.sync.DONT_SYNC,config.warn.about.crlf.enabled,config.update.type.BRANCH_DEFAULT" collectionTime="1458025943645" />
+      <project id="untitled" values="config.ssh.enabled,config.warn.about.crlf.enabled,config.push.update.all.roots.enabled,config.cherry-pick.autocommit.disabled,config.force.push.enabled,config.warn.about.detached.enabled,config.update.type.BRANCH_DEFAULT,config.push.autoupdate.disabled,config.repo.sync.NOT_DECIDED,config.save.policy.STASH" collectionTime="1458029191146" />
+      <project id="jsprunutf8" values="config.update.type.BRANCH_DEFAULT,config.force.push.enabled,config.cherry-pick.autocommit.disabled,config.push.update.all.roots.enabled,config.warn.about.crlf.enabled,config.ssh.enabled,config.push.autoupdate.disabled,config.repo.sync.NOT_DECIDED,config.warn.about.detached.enabled,config.save.policy.STASH" collectionTime="1458194456659" />
+    </group>
+    <group name="javaScript Scope Usages">
+      <project id="HelloWorld" values="Project,Project" collectionTime="1458104745649" />
+      <project id="untitled2" values="Project,Project" collectionTime="1458103599589" />
+      <project id="untitled1" values="Project,Project" collectionTime="1458103295616" />
+      <project id="untitled3" values="Project,Project" collectionTime="1458103597139" />
+      <project id="source" values="Project,Project" collectionTime="1458193968614" />
+      <project id="TestWeb" values="Project,Project" collectionTime="1458174135910" />
+      <project id="HelloGch" values="Project,Project" collectionTime="1458221052667" />
+      <project id="Hello" values="Project,Project" collectionTime="1458174608722" />
+      <project id="IntelliJ-IDEA-Tutorial" values="Project,Project" collectionTime="1458101463384" />
+      <project id="untitledProjects" values="Project,Project" collectionTime="1458025943648" />
+      <project id="untitled" values="Project,Project" collectionTime="1458029191337" />
+      <project id="jsprunutf8" values="Project,Project" collectionTime="1458194456659" />
+    </group>
+    <group name="frameworks">
+      <project id="jsprunutf8" values="web" collectionTime="1458194456632" />
+    </group>
+    <group name="libraries">
+      <project id="jsprunutf8" values="TransactionJavaee,hibernate" collectionTime="1458194456659" />
+    </group>
+    <group name="file-type">
+      <project id="HelloWorld" values="HTML,IDEA_MODULE,JAVA,UNKNOWN,XML" collectionTime="1458104745413" />
+      <project id="untitled2" values="XML,IDEA_MODULE,UNKNOWN,PLAIN_TEXT" collectionTime="1458103599587" />
+      <project id="untitled1" values="XML,UNKNOWN,HTML,JAVA,IDEA_MODULE" collectionTime="1458103295388" />
+      <project id="untitled3" values="UNKNOWN,HTML,XML,JAVA,IDEA_MODULE" collectionTime="1458103597135" />
+      <project id="source" values="UNKNOWN" collectionTime="1458193968564" />
+      <project id="TestWeb" values="PLAIN_TEXT,XML,UNKNOWN,IDEA_MODULE" collectionTime="1458174135052" />
+      <project id="HelloGch" values="XML,HTML,JAVA,IDEA_MODULE,UNKNOWN" collectionTime="1458221052611" />
+      <project id="Hello" values="UNKNOWN,HTML,JAVA,IDEA_MODULE,XML" collectionTime="1458174608715" />
+      <project id="IntelliJ-IDEA-Tutorial" values="XML,UNKNOWN,PLAIN_TEXT,IDEA_MODULE" collectionTime="1458101463192" />
+      <project id="untitledProjects" values="IDEA_MODULE,UNKNOWN,XML,JAVA,PLAIN_TEXT" collectionTime="1458025943623" />
+      <project id="untitled" values="IDEA_MODULE,DATASOURCE_STORAGE,JAVA,XML,UNKNOWN,PLAIN_TEXT" collectionTime="1458029191136" />
+      <project id="jsprunutf8" values="PLAIN_TEXT,CSS,Manifest,JavaScript,SQL,UNKNOWN,Properties,JAVA,Eclipse,ARCHIVE,Images,HTML,SWF,IDEA_MODULE,XML,JSP" collectionTime="1458194456658" />
+    </group>
+    <group name="module type">
+      <project id="HelloWorld" values="JAVA_MODULE" collectionTime="1458104745292" />
+      <project id="untitled2" values="JAVA_MODULE" collectionTime="1458103599550" />
+      <project id="untitled1" values="JAVA_MODULE" collectionTime="1458103295273" />
+      <project id="untitled3" values="JAVA_MODULE" collectionTime="1458103597110" />
+      <project id="TestWeb" values="WEB_MODULE" collectionTime="1458174135021" />
+      <project id="HelloGch" values="JAVA_MODULE" collectionTime="1458221052532" />
+      <project id="Hello" values="JAVA_MODULE" collectionTime="1458174608605" />
+      <project id="IntelliJ-IDEA-Tutorial" values="JAVA_MODULE" collectionTime="1458101462908" />
+      <project id="untitledProjects" values="JAVA_MODULE" collectionTime="1458025943546" />
+      <project id="untitled" values="JAVA_MODULE" collectionTime="1458029191068" />
+      <project id="jsprunutf8" values="JAVA_MODULE" collectionTime="1458194456632" />
+    </group>
+  </component>
+  <component name="UsageTrigger">
+    <counts>
+      <entry feature="OpenInBrowser.Internet Explorer" count="1" />
+      <entry feature="execute.#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory.运行" count="11" />
+      <entry feature="execute.Application.Run" count="1" />
+      <entry feature="execute.Application.运行" count="5" />
+      <entry feature="execute.CucumberJavaRunConfigurationType.Coverage" count="2" />
+      <entry feature="execute.CucumberJavaRunConfigurationType.Run" count="9" />
+      <entry feature="execute.CucumberJavaRunConfigurationType.调试" count="3" />
+      <entry feature="execute.CucumberJavaRunConfigurationType.运行" count="42" />
+      <entry feature="ide.settings.Appearance" count="3" />
+      <entry feature="ide.settings.Console_Font" count="1" />
+      <entry feature="ide.settings.Editor_Tabs" count="1" />
+      <entry feature="ide.settings.Font" count="3" />
+      <entry feature="ide.settings.Git" count="1" />
+      <entry feature="ide.settings.GitHub" count="2" />
+      <entry feature="ide.settings.Inspections" count="1" />
+      <entry feature="ide.settings.Java编译器" count="2" />
+      <entry feature="ide.settings.Maven" count="1" />
+      <entry feature="ide.settings.Plugins" count="4" />
+      <entry feature="ide.settings.Subversion" count="2" />
+      <entry feature="ide.settings.Tomcat_Server" count="1" />
+      <entry feature="ide.settings.代码完成" count="1" />
+      <entry feature="ide.settings.外观" count="10" />
+      <entry feature="ide.settings.常规" count="1" />
+      <entry feature="ide.settings.快捷键" count="4" />
+      <entry feature="ide.settings.插件" count="1" />
+      <entry feature="ide.settings.编辑器" count="1" />
+      <entry feature="ide.settings.颜色和字体" count="2" />
+      <entry feature="ideaapp.started" count="21" />
+      <entry feature="terminal.win" count="5" />
+      <entry feature="welcome.screen.WelcomeScreen.Configure" count="6" />
+      <entry feature="welcome.screen.WelcomeScreen.Configure.Import" count="1" />
+      <entry feature="welcome.screen.WelcomeScreen.CreateNewProject" count="5" />
+      <entry feature="welcome.screen.WelcomeScreen.Documentation" count="1" />
+      <entry feature="welcome.screen.WelcomeScreen.GetFromVcs" count="5" />
+      <entry feature="welcome.screen.WelcomeScreen.OpenProject" count="1" />
+      <entry feature="welcome.screen.WelcomeScreen.Plugins" count="1" />
+      <entry feature="welcome.screen.WelcomeScreen.Settings" count="2" />
+      <entry feature="welcome.screen.null" count="1" />
+    </counts>
+  </component>
+</application>
